@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "StefanProkic 11/2/2019 13:36",
+	"super" : "Object",
+	"category" : "The Lobster Kings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "Factorial",
+	"type" : "normal"
+}

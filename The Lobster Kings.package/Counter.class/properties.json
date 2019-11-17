@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "StefanProkic 11/2/2019 13:35",
+	"super" : "Object",
+	"category" : "The Lobster Kings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"try"
+	],
+	"instvars" : [
+		"number"
+	],
+	"name" : "Counter",
+	"type" : "normal"
+}
