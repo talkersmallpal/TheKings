@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RobotMind",
+	"category" : "TheLobsterKings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastDirection"
+	],
+	"name" : "BestMutiLevelAdvancedNeigborMind",
+	"type" : "normal"
+}
